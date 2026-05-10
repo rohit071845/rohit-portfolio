@@ -6,16 +6,16 @@
     "status": "RUNNING"
   },
   "person": {
-    "name": "Avi Vyas",
+    "name": "Rohit Kumar Upadhyay",
     "role": "Software Engineer (Backend Engineer)",
     "headline": "Building backend systems that scale to millions—without breaking under pressure.",
     "summary": "Backend engineer focused on high-scale microservices and performance-driven design, building systems that power 10M+ users",
     "location": "Gurgaon, India",
-    "email": "avi.vyas.work@gmail.com",
+    "email": "mailto:rohitupadhyay451718@gmail.com",
     "links": {
-      "github": "https://github.com/avi-vyas",
-      "linkedin": "https://www.linkedin.com/in/avi-vyas",
-      "email": "mailto:avi.vyas.work@gmail.com"
+      "github": "https://github.com/rohit071845",
+      "linkedin": "https://www.linkedin.com/in/rohit-kumar-upadhyay-27268a289/",
+      "email": "mailto:rohitupadhyay451718@gmail.com"
     }
   },
   "system_status": [

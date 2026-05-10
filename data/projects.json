@@ -12,23 +12,23 @@
         "REST APIs for products and users",
         "Pagination, validation, and exception handling"
       ],
-      "github": "https://github.com/avi-vyas/ecommerce-platform-backend",
+      "github": "https://github.com/Rohitkumar-TTN/backendProject",
       "details_url": ""
     },
     {
-      "id": "doctor-appointment-system",
-      "name": "Doctor Appointment System",
-      "tagline": "Appointment scheduling with secure role-based access.",
-      "description": "Built RESTful APIs for appointment booking and scheduling workflows. Implemented JWT-based access control for doctors and patients with conflict-aware slot management.",
-      "stack": ["Python", "FastAPI", "MySQL", "SQLAlchemy", "JWT"],
+      "id": "chat-app",
+      "name": "Real-Time Chat Application",
+      "tagline": "Secure real-time messaging platform with authentication.",
+      "description": "Built a real-time chat application with user authentication and responsive UI. Implemented secure login, instant messaging, and smooth communication workflows for connected users.",
+      "stack": ["React", "Node.js", "Express", "Socket.IO", "MongoDB", "JWT"],
       "status": "STABLE",
       "highlights": [
-        "Appointment lifecycle management",
-        "Role-based access control",
-        "Conflict-aware time-slot scheduling"
+        "Real-time messaging with Socket.IO",
+        "JWT-based user authentication",
+        "Responsive and user-friendly chat interface"
       ],
-      "github": "https://github.com/avi-vyas/doctor-appointment-system",
-      "details_url": ""
+      "github": "https://github.com/rohit071845/chat-app",
+      "details_url": "https://chat-app-fawn-mu-78.vercel.app/login"
     }
   ]
 }
